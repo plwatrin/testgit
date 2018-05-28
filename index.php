@@ -3,5 +3,6 @@
 class test
 {
 	private $arg;
-	private $arg3;
+	
+	private $arg2;
 }
